@@ -113,8 +113,8 @@ sudo dnf install -y nodejs git
 
 ```bash
 cd /home/ec2-user
-git clone https://github.com/krishnabk93/netflix-aws-clone.git
-cd netflix-aws-clone/backend
+git clone https://github.com/tris142/netflix-clone-aws-project.git
+cd netflix-clone-aws-project/backend
 ```
 
 ---
